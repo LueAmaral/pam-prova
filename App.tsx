@@ -60,16 +60,5 @@ const styles = StyleSheet.create({
     margin: 10,
     padding: 15,
     marginBottom: 30,
-  },
-  botao: {
-    width: '100%',
-    height: 50,
-    backgroundColor: 'black',
-    justifyContent: 'center',
-    borderRadius: 100,
-  },
-  btntxt: {
-    alignSelf: 'center',
-    color: 'white',
   }
 });
